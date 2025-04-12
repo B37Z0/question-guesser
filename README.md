@@ -1,7 +1,8 @@
 # Question Guesser
 
 A question guesser for an online assignment submission website. \
-Written for fun and was not distributed or used. Code for display only.
+Written for fun and was not distributed or used. Code for display only. \
+Built using Selenium. 
 
 Features:
 - Login to school website and navigate to assignment.
